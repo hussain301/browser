@@ -1,0 +1,8 @@
+﻿pw-browsers/
+dist/
+build/
+__pycache__/
+*.zip
+cookies/
+errors/
+profiles/
